@@ -1,0 +1,16 @@
+2020-05-26 10:04:17,192 -0400 [main] INFO  (MainDriver.java:23) - Welcome to Moss Bank Solutions
+2020-05-26 10:04:17,196 -0400 [main] INFO  (MainDriver.java:24) - ------------------------------
+2020-05-26 10:04:17,203 -0400 [main] INFO  (MainDriver.java:29) - Login
+2020-05-26 10:04:17,203 -0400 [main] INFO  (MainDriver.java:30) - Select an option below
+2020-05-26 10:04:17,203 -0400 [main] INFO  (MainDriver.java:31) - ---------------------------
+2020-05-26 10:04:17,203 -0400 [main] INFO  (MainDriver.java:32) - 1) Are you a Customer?
+2020-05-26 10:04:17,204 -0400 [main] INFO  (MainDriver.java:33) - 2) Are you an Employee
+2020-05-26 10:04:17,205 -0400 [main] INFO  (MainDriver.java:34) - 3) Exit
+2020-05-26 10:04:21,051 -0400 [main] INFO  (MainDriver.java:45) - Welcome to the Customer portal!
+2020-05-26 10:04:21,051 -0400 [main] INFO  (MainDriver.java:46) - -------------------------------
+2020-05-26 10:04:21,052 -0400 [main] INFO  (MainDriver.java:47) - 1) Existing Customer
+2020-05-26 10:04:21,052 -0400 [main] INFO  (MainDriver.java:48) - 2) New Customer
+2020-05-26 10:04:21,052 -0400 [main] INFO  (MainDriver.java:49) - 3) Exit
+2020-05-26 10:04:21,968 -0400 [main] INFO  (MainDriver.java:58) - Please Login
+2020-05-26 10:04:21,969 -0400 [main] INFO  (MainDriver.java:59) - Enter Username
+2020-05-26 10:04:25,203 -0400 [main] INFO  (MainDriver.java:61) - Enter Password
